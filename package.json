@@ -1,7 +1,7 @@
 {
   "name": "vue-text-middle-ellipsis",
   "description": "Simple vue-directive for the text middle ellipsis.",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "author": "tardigrada777 <ntwrite@gmail.com>",
   "license": "MIT",
   "main": "lib/vue-text-middle-ellipsis.min.js",

@@ -1,5 +1,8 @@
 ## Vue Text Middle Ellipsis
 
+[![npm version](https://img.shields.io/npm/v/vue-text-middle-ellipsis.svg)](https://www.npmjs.com/package/vue-text-middle-ellipsis)
+[![npm downloads](https://img.shields.io/npm/dm/vue-text-middle-ellipsis.svg)](http://npm-stat.com/charts.html?package=vue-text-middle-ellipsis)
+
 A Simple vue-directive for the text middle ellipsis.
 
 ### Install
