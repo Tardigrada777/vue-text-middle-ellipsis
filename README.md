@@ -21,10 +21,14 @@ Vue.use(textMiddleEllipsis);
 ```html
 <p v-text-middle-ellipsis="4">Some long text.</p>
 ```
-The value passed to the directive - is the count of symbols that you are want to preserve from truncate.
+The value passed to the directive - is the count of symbols from the end of string that you are want to preserve from truncate.
+
 ### Result
 'Some...ext.'
 
-
 ### Live example
 <img width="493" height="350" src="https://raw.githubusercontent.com/Tardigrada777/vue-text-middle-ellipsis/master/docs/text-middle-ellipsis-example.gif">
+
+### Is it useful for you?
+Please star this repo. Perhaps you have an idea how to improve this solution?
+Feel free to suggest your PR.
