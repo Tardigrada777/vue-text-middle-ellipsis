@@ -3,7 +3,11 @@
     <div :style="{ width }">
       <p v-text-middle-ellipsis="4">Long long word.</p>
     </div>
-    <p :style="{ width }" v-text-middle-ellipsis="2"> Lorem ipsum dolor. </p>
+    <p
+      :style="{ width }" v-text-middle-ellipsis="4"
+
+      style="border: 1px solid; box-sizing: border-box"
+    > Lorem_ipsum_dolor. </p>
     <p :style="{ width }" v-text-middle-ellipsis="2"> amet, consectetur adipisicing. </p>
 
     <p> {{ width }} </p>
