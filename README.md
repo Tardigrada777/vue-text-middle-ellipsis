@@ -32,3 +32,9 @@ The value passed to the directive - is the count of symbols from the end of stri
 ### Is it useful for you?
 Please star this repo. Perhaps you have an idea how to improve this solution?
 Feel free to suggest your PR.
+
+### Contributing
+- Check the open issues or open a new issue to start a discussion around your feature idea or the bug you found.
+- Fork repository, make changes, add your name and link in the authors session readme.md (create if it's not exist)
+- Send a pull request
+- And finally...__thank you__ :)
